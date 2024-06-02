@@ -1,0 +1,13 @@
+{
+    "object": "asteroid",
+    "density_range": {
+        "min": 2.0,
+        "max": 5.0
+    },
+    "spectrometry_parameters": {
+        "wavelength_start": 400,
+        "wavelength_end": 700,
+        "resolution": 1
+    },
+    "temperature": 3000
+}
